@@ -6,7 +6,6 @@
 #include <string>
 #include "matrix_double.h"
 
-//typedef std::vector<std::vector<double>> Matrix;
 
 const double EPSILON = std::numeric_limits<double>::epsilon();
 const int MAX_FACT = 170;
